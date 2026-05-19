@@ -1,0 +1,12 @@
+# Exact versions used during development.
+# These are known to work together on Windows 11, macOS 14 (Sonoma), and Ubuntu 22.04.
+# Run:  pip install -r requirements.txt
+
+PyQt6==6.11.0
+PyQt6-Qt6==6.11.0
+PyQt6-Charts==6.11.0
+SQLAlchemy==2.0.49
+bcrypt==5.0.0
+reportlab==4.5.1
+qtawesome==1.4.2
+Pillow==12.2.0

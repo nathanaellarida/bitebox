@@ -1,4 +1,4 @@
-# Larida — Order & Product Inventory Management System
+# BiteBox — Order & Product Inventory Management System
 
 A desktop **Point-of-Sale (POS) and inventory management** application built with **Python 3.11+** and **PyQt6**, designed for small to mid-sized retail and food businesses.
 

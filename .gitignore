@@ -9,6 +9,9 @@ __pycache__/
 *.sqlite
 *.sqlite3
 
+# Local configuration (may contain SMTP credentials)
+config.json
+
 # Exports
 exports/
 

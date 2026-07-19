@@ -1,0 +1,17 @@
+{
+  "store": {
+    "name": "BiteBox",
+    "contact": "+63-000-000-0000",
+    "email": "hello@bitebox.example",
+    "address": "Your store address"
+  },
+  "smtp": {
+    "host": "smtp.gmail.com",
+    "port": 587,
+    "username": "",
+    "password": "",
+    "use_tls": true,
+    "from_name": "BiteBox"
+  },
+  "theme": "light"
+}

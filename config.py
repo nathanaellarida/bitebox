@@ -20,10 +20,10 @@ for _d in (ASSETS_DIR, IMAGES_DIR, ICONS_DIR, STYLES_DIR, EXPORTS_DIR):
 
 DEFAULT_CONFIG: dict[str, Any] = {
     "store": {
-        "name": "My Store",
+        "name": "BiteBox",
         "contact": "+63-000-000-0000",
-        "email": "store@example.com",
-        "address": "123 Main St.",
+        "email": "hello@bitebox.example",
+        "address": "Your store address",
     },
     "smtp": {
         "host": "smtp.gmail.com",
@@ -31,7 +31,7 @@ DEFAULT_CONFIG: dict[str, Any] = {
         "username": "",
         "password": "",
         "use_tls": True,
-        "from_name": "My Store",
+        "from_name": "BiteBox",
     },
     "theme": "light",
 }

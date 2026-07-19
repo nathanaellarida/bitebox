@@ -1,4 +1,5 @@
-# BiteBox
+# BiteBox — Order & Product Inventory Management System
+
 
 **BiteBox** is a cross-platform desktop point-of-sale and inventory management system for food and retail businesses. Built with Python and PyQt6, it combines a staff management portal with a customer self-service ordering experience in one application.
 
